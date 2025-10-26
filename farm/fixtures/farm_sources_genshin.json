@@ -1,0 +1,617 @@
+[
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "SELENIMARIPOSA RADIANTE",
+            "location": "Nod Krai",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "PUÑOPATO",
+            "location": "Nod Krai",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "AUTÓMATA FUENTENIGMA-MÁQUINA DE CONTROL",
+            "location": "Natlan",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "MAGMADRAGÓN CANDENTE",
+            "location": "Natlan",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "ASCETA ESPIRITISTA",
+            "location": "Natlan",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "CEPA ABISMÁTICA",
+            "location": "Natlan",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "AUTÓMATA FUENTENIGMA-MÁQUINA CONFIGURACIONAL",
+            "location": "Natlan",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "TIRANO QUCUSAURIO AUREOARDIENTE",
+            "location": "Natlan",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "REY YUMKASAURIO GLOTÓN",
+            "location": "Natlan",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "GÓLEM LEGADO",
+            "location": "Fontaine",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "SUANNI ERMITAÑA",
+            "location": "Liyue",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "TULPA HIDROMIMÉTICO",
+            "location": "Fontaine",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "CORCEL DE MAR PERLAMILENARIO",
+            "location": "Fontaine",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "GENERADOR DE CAMPO EXPERIMENTAL",
+            "location": "Fontaine",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "EMPERADOR PIROACORAZADO",
+            "location": "Fontaine",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "SUITE CRIOCÉFIRO",
+            "location": "Fontaine",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "BAUTISTA SACRILEGO",
+            "location": "Sumeru",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "GUSANO DE SUTEJ",
+            "location": "Fontaine",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "HIPÓSTASIS DENDRO",
+            "location": "Sumeru",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },    
+        {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "ALGORITMO DE SEMI-INCESANTE MATRIZ DE OBSERVACION NAVEGADORA",
+            "location": "Sumeru",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "DRAGON ACIAGOETERNO",
+            "location": "Sumeru",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+        {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "ESPANTHONGO PLUMAVERDE",
+            "location": "Sumeru",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "REGISVID ELECTRO",
+            "location": "Sumeru",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "SERPIENTE DE LAS RUINAS",
+            "location": "Liyue",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "MANADA DE DRAGARTOS DE LAS PROFUNDIDADES",
+            "location": "Inazuma",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "REY ACECHADOR DORADO",
+            "location": "Inazuma",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "MANIFESTACION DEL TRUENO",
+            "location": "Inazuma",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "HIPOSTASIS HYDRO",
+            "location": "Inazuma",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "MAQUINARIA ETERNA",
+            "location": "Inazuma",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "HIPOSTASIS PYRO",
+            "location": "Inazuma",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "ONI ESPADACHIN",
+            "location": "Inazuma",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "HIPOSTASIS CRYO",
+            "location": "Mondstadt",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "PROTODRAGARTO GEO",
+            "location": "Liyue",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "REGISVID PYRO",
+            "location": "Liyue",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "OCEANIDA",
+            "location": "Liyue",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "HIPOSTASIS GEO",
+            "location": "Liyue",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "REGISVID CRYO",
+            "location": "Mondstadt",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "HIPOSTASIS ANEMO",
+            "location": "Mondstadt",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "HIPOSTASIS ELECTRO",
+            "location": "Mondstadt",
+            "source_type": "JEFE",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "JUEGO DE AJEDREZ POR TERMINAR",
+            "location": "Mondstadt",
+            "source_type": "JEFE-SEMANAL",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "GRABADO DE PIEDRA",
+            "location": "Natlan",
+            "source_type": "JEFE-SEMANAL",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "RUINAS CAIDAS",
+            "location": "Fontaine",
+            "source_type": "JEFE-SEMANAL",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "SOMBRA EXTRAMUNDANA",
+            "location": "Fontaine",
+            "source_type": "JEFE-SEMANAL",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "HOGAR DE LOS INICIOS",
+            "location": "Sumeru",
+            "source_type": "JEFE-SEMANAL",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "TALLER DE JOURURI",
+            "location": "Sumeru",
+            "source_type": "JEFE-SEMANAL",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "FINAL DE LA EUTIMIA ONÍRICA",
+            "location": "Inazuma",
+            "source_type": "JEFE-SEMANAL",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "TENSHUKAKU",
+            "location": "Inazuma",
+            "source_type": "JEFE-SEMANAL",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "BAJO EL SOMETEDRAGONES",
+            "location": "Liyue",
+            "source_type": "JEFE-SEMANAL",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "CASA DORADA",
+            "location": "Liyue",
+            "source_type": "JEFE-SEMANAL",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "GUARIDA DE STORMTERROR",
+            "location": "Mondstadt",
+            "source_type": "JEFE-SEMANAL",
+            "game": 1
+        }
+    },
+        
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "Valle de los Recuerdos",
+            "location": "Mondstadt",
+            "source_type": "DOMINIO-ART",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "Jardín de Cecilia",
+            "location": "Mondstadt",
+            "source_type": "DOMINIO-ARMA",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "Cañon del olvido",
+            "location": "Mondstadt",
+            "source_type": "DOMINIO-TALENTO",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "Palacio Oculto de Lianshan",
+            "location": "Liyue",
+            "source_type": "DOMINIO-ARMA",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "Mansión Taishan",
+            "location": "Liyue",
+            "source_type": "DOMINIO-TALENTO",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "Cámara Oculta de Guyun",
+            "location": "Liyue",
+            "source_type": "DOMINIO-ART",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "Jardín del Veredicto",
+            "location": "Inazuma",
+            "source_type": "DOMINIO-ARMA",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "Corazón de la Flama",
+            "location": "Inazuma",
+            "source_type": "DOMINIO-TALENTO",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "Momiji-Dyed Court",
+            "location": "Inazuma",
+            "source_type": "DOMINIO-ART",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "Torre de la Ignorancia",
+            "location": "Sumeru",
+            "source_type": "DOMINIO-TALENTO",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "Estatua del Conflicto",
+            "location": "Sumeru",
+            "source_type": "DOMINIO-ARMA",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "Espacio del Alma",
+            "location": "Sumeru",
+            "source_type": "DOMINIO-ART",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "Ecos de las Mareas Profundas",
+            "location": "Fontaine",
+            "source_type": "DOMINIO-ART",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "Ecos del Maremoto",
+            "location": "Fontaine",
+            "source_type": "DOMINIO-ARMA",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "Catarata del Esplendor",
+            "location": "Fontaine",
+            "source_type": "DOMINIO-TALENTO",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "Ciudadela del Abismo Llameante",
+            "location": "Natlan",
+            "source_type": "DOMINIO-ART",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "Altar de las Llamas Antiguas",
+            "location": "Natlan",
+            "source_type": "DOMINIO-TALENTO",
+            "game": 1
+        }
+    },
+    {
+        "model": "farm.farmsource",
+        "fields": {
+            "name": "Sacro Juicio de la Llama",
+            "location": "Natlan",
+            "source_type": "DOMINIO-ARMA",
+            "game": 1
+        }
+    }
+
+
+]
