@@ -25,24 +25,28 @@ class FarmSourceViewSet(viewsets.ReadOnlyModelViewSet):
 
     def get_queryset(self):
         game_id = self.kwargs.get("game_pk")
-        source_type = self.request.query_params.get("source_type")  # lo que usa tu frontend
-        queryset = FarmSource.objects.filter(game__id=game_id)
-
+        source_type = self.request.query_params.get("source_type")
+    
+        # Prefetch para evitar duplicación de recompensas
+        rewards_prefetch = Prefetch(
+            "rewards",
+            queryset=FarmReward.objects.all().distinct()
+        )
+    
+        queryset = FarmSource.objects.filter(game__id=game_id).prefetch_related(rewards_prefetch)
+    
         if not source_type:
             return queryset
-
-        # Normaliza el texto
+    
         normalized = source_type.strip().upper().replace(" ", "_")
-
-        # Filtro especial para dominios
+    
         if normalized.startswith("DOMINIO"):
             queryset = queryset.filter(source_type__istartswith="DOMINIO")
-        elif normalized in ["JEFE", "JEFE-SEMANAL"]:
+        elif normalized in ["JEFE", "JEFE_SEMANAL", "JEFE-SEMANAL"]:
             queryset = queryset.filter(source_type__iexact=normalized)
         else:
-            # Si no coincide con nada conocido, no devuelve nada
             queryset = queryset.none()
-
+    
         return queryset
 
 
