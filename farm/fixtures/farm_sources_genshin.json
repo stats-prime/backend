@@ -170,7 +170,7 @@
             "game": 1
         }
     },    
-        {
+    {
         "model": "farm.farmsource",
         "fields": {
             "name": "ALGORITMO DE SEMI-INCESANTE MATRIZ DE OBSERVACION NAVEGADORA",
@@ -188,7 +188,7 @@
             "game": 1
         }
     },
-        {
+    {
         "model": "farm.farmsource",
         "fields": {
             "name": "ESPANTHONGO PLUMAVERDE",

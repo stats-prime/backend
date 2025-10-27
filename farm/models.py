@@ -11,7 +11,7 @@ class Game(models.Model):
 class FarmSource(models.Model):
     SOURCE_TYPES = [
         ('JEFE', 'Jefe'),
-        ('JEFE_SEMANAL', 'Jefe Semanal'),
+        ('JEFE-SEMANAL', 'Jefe Semanal'),
         ('DOMINIO', 'Dominio'),
     ]
     name = models.CharField(max_length=150)

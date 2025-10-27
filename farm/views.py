@@ -25,19 +25,26 @@ class FarmSourceViewSet(viewsets.ReadOnlyModelViewSet):
 
     def get_queryset(self):
         game_id = self.kwargs.get("game_pk")
-        source_type = self.request.query_params.get("type")
+        source_type = self.request.query_params.get("source_type")  # lo que usa tu frontend
         queryset = FarmSource.objects.filter(game__id=game_id)
-    
-        if source_type:
-            # Normalizamos el texto (sin espacios, mayúsculas, tildes)
-            normalized = source_type.strip().upper().replace(" ", "_")
-    
-            if normalized == "DOMINIO":
-                queryset = queryset.filter(source_type__startswith="DOMINIO")
-            else:
-                queryset = queryset.filter(source_type__iexact=normalized)
-    
+
+        if not source_type:
+            return queryset
+
+        # Normaliza el texto
+        normalized = source_type.strip().upper().replace(" ", "_")
+
+        # Filtro especial para dominios
+        if normalized.startswith("DOMINIO"):
+            queryset = queryset.filter(source_type__istartswith="DOMINIO")
+        elif normalized in ["JEFE", "JEFE-SEMANAL"]:
+            queryset = queryset.filter(source_type__iexact=normalized)
+        else:
+            # Si no coincide con nada conocido, no devuelve nada
+            queryset = queryset.none()
+
         return queryset
+
 
 # -------------------------------
 # Eventos de farmeo
