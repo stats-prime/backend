@@ -2458,22 +2458,6 @@
     {
         "model": "farm.farmreward",
         "fields": {
-            "name": "Final de Gladiador",
-            "rarity": "EPICO",
-            "source": 17
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": {
-            "name": "Orquesta del Errante",
-            "rarity": "EPICO",
-            "source": 17
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": {
             "name": "Berserker",
             "rarity": "EPICO",
             "source": 17
