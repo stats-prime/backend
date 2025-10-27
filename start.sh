@@ -1,14 +1,5 @@
 #!/usr/bin/env bash
 
-echo "🧹 Limpiando tablas de farm..."
-python manage.py shell -c "
-from farm.models import Game, FarmSource, FarmReward;
-FarmReward.objects.all().delete();
-FarmSource.objects.all().delete();
-Game.objects.all().delete();
-print('Datos antiguos eliminados');
-"
-
 echo "Aplicando migraciones..."
 python manage.py migrate --noinput
 
