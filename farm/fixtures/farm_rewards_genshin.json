@@ -151,8 +151,6 @@
             "source": 1
         }
     },
-
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -289,8 +287,6 @@
             "source": 2
         }
     },
-
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -427,8 +423,6 @@
             "source": 3
         }
     },
-
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -565,144 +559,6 @@
             "source": 4
         }
     },
-
-    {
-        "model": "farm.farmreward",
-        "fields": {
-            "name": "Mora",
-            "rarity": "COMUN",
-            "source": 4
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": {
-            "name": "Talismán de la tierra enigmática",
-            "rarity": "EPICO",
-            "source": 4
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": {
-            "name": "Jade shivada",
-            "rarity": "LEGENDARIO",
-            "source": 4
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": {
-            "name": "Trozo de jade shivada",
-            "rarity": "EPICO",
-            "source": 4
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": {
-            "name": "Fragmento de jade shivada",
-            "rarity": "RARO",
-            "source": 4
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": {
-            "name": "Pedacito de jade shivada",
-            "rarity": "COMUN",
-            "source": 4
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": {
-            "name": "Final de Gladiador",
-            "rarity": "LEGENDARIO",
-            "source": 4
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": {
-            "name": "Orquesta del Errante",
-            "rarity": "LEGENDARIO",
-            "source": 4
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": {
-            "name": "Final de Gladiador",
-            "rarity": "EPICO",
-            "source": 4
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": {
-            "name": "Orquesta del Errante",
-            "rarity": "EPICO",
-            "source": 4
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": {
-            "name": "Berserker",
-            "rarity": "EPICO",
-            "source": 4
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": {
-            "name": "Exiliado",
-            "rarity": "EPICO",
-            "source": 4
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": {
-            "name": "Ritual de la Primavera",
-            "rarity": "EPICO",
-            "source": 4
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": {
-            "name": "Berserker",
-            "rarity": "COMUN",
-            "source": 4
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": {
-            "name": "Exiliado",
-            "rarity": "COMUN",
-            "source": 4
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": {
-            "name": "Ritual de la Primavera",
-            "rarity": "COMUN",
-            "source": 4
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": {
-            "name": "Afortnuado",
-            "rarity": "COMUN",
-            "source": 4
-        }
-    },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -839,7 +695,6 @@
             "source": 5
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -888,7 +743,7 @@
             "source": 6
         }
     },
-        {
+    {
         "model": "farm.farmreward",
         "fields": {
             "name": "Amatista vajrada",
@@ -899,7 +754,7 @@
     {
         "model": "farm.farmreward",
         "fields": {
-            "name": "Trozo de ágata agnidus",
+            "name": "Trozo de amatista vajrada",
             "rarity": "EPICO",
             "source": 6
         }
@@ -1008,7 +863,6 @@
             "source": 6
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -1145,7 +999,6 @@
             "source": 7
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -1282,7 +1135,6 @@
             "source": 8
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -1400,10 +1252,9 @@
         "fields": {
             "name": "Aventurero",
             "rarity": "COMUN",
-            "source": 9 
+            "source": 9
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -1452,7 +1303,7 @@
             "source": 10
         }
     },
-        {
+    {
         "model": "farm.farmreward",
         "fields": {
             "name": "Topacio prithiva",
@@ -1572,7 +1423,6 @@
             "source": 10
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -1621,7 +1471,7 @@
             "source": 11
         }
     },
-        {
+    {
         "model": "farm.farmreward",
         "fields": {
             "name": "Lazurita varunada",
@@ -1725,7 +1575,6 @@
             "source": 11
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -1862,7 +1711,6 @@
             "source": 12
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -1999,7 +1847,6 @@
             "source": 13
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -2043,7 +1890,7 @@
     {
         "model": "farm.farmreward",
         "fields": {
-            "name": "Pedacito de topacio prithivaw",
+            "name": "Pedacito de topacio prithiva",
             "rarity": "COMUN",
             "source": 14
         }
@@ -2120,7 +1967,6 @@
             "source": 14
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -2257,7 +2103,6 @@
             "source": 15
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -2314,7 +2159,7 @@
             "source": 16
         }
     },
-        {
+    {
         "model": "farm.farmreward",
         "fields": {
             "name": "Jade shivada",
@@ -2402,7 +2247,7 @@
             "source": 16
         }
     },
-        {
+    {
         "model": "farm.farmreward",
         "fields": {
             "name": "Ritual de la Primavera",
@@ -2426,7 +2271,7 @@
             "source": 16
         }
     },
-        {
+    {
         "model": "farm.farmreward",
         "fields": {
             "name": "Exiliado",
@@ -2450,7 +2295,6 @@
             "source": 16
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -2531,7 +2375,7 @@
             "source": 17
         }
     },
-           {
+    {
         "model": "farm.farmreward",
         "fields": {
             "name": "Ágata agnidus",
@@ -2563,7 +2407,7 @@
             "source": 17
         }
     },
-           {
+    {
         "model": "farm.farmreward",
         "fields": {
             "name": "Lazurita varunada",
@@ -2659,7 +2503,7 @@
             "source": 17
         }
     },
-        {
+    {
         "model": "farm.farmreward",
         "fields": {
             "name": "Ritual de la Primavera",
@@ -2675,7 +2519,7 @@
             "source": 17
         }
     },
-        {
+    {
         "model": "farm.farmreward",
         "fields": {
             "name": "Ritual del Destino",
@@ -2683,7 +2527,7 @@
             "source": 17
         }
     },
-        {
+    {
         "model": "farm.farmreward",
         "fields": {
             "name": "Final de Gladiador",
@@ -2691,7 +2535,7 @@
             "source": 17
         }
     },
-        {
+    {
         "model": "farm.farmreward",
         "fields": {
             "name": "Orquesta del Errante",
@@ -2715,7 +2559,7 @@
             "source": 17
         }
     },
-        {
+    {
         "model": "farm.farmreward",
         "fields": {
             "name": "Exiliado",
@@ -2723,7 +2567,6 @@
             "source": 17
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -2844,7 +2687,6 @@
             "source": 18
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -2965,7 +2807,6 @@
             "source": 19
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -3134,7 +2975,6 @@
             "source": 20
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -3303,7 +3143,6 @@
             "source": 21
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -3424,7 +3263,6 @@
             "source": 22
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -3561,7 +3399,6 @@
             "source": 23
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -3682,7 +3519,6 @@
             "source": 24
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -3851,7 +3687,6 @@
             "source": 25
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -3988,7 +3823,6 @@
             "source": 26
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -4109,7 +3943,6 @@
             "source": 27
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -4246,7 +4079,6 @@
             "source": 28
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -4415,7 +4247,6 @@
             "source": 29
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -4552,7 +4383,6 @@
             "source": 30
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -4633,7 +4463,6 @@
             "source": 31
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -4706,7 +4535,6 @@
             "source": 31
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -4842,8 +4670,7 @@
             "rarity": "COMUN",
             "source": 32
         }
-    },    
-
+    },
     {
         "model": "farm.farmreward",
         "fields": {
@@ -4956,7 +4783,7 @@
             "source": 33
         }
     },
-           {
+    {
         "model": "farm.farmreward",
         "fields": {
             "name": "Ágata agnidus",
@@ -4988,7 +4815,7 @@
             "source": 33
         }
     },
-           {
+    {
         "model": "farm.farmreward",
         "fields": {
             "name": "Lazurita varunada",
@@ -5084,7 +4911,7 @@
             "source": 33
         }
     },
-        {
+    {
         "model": "farm.farmreward",
         "fields": {
             "name": "Ritual del Destino",
@@ -5100,7 +4927,7 @@
             "source": 33
         }
     },
-        {
+    {
         "model": "farm.farmreward",
         "fields": {
             "name": "Orquesta del Errante",
@@ -5124,7 +4951,7 @@
             "source": 33
         }
     },
-        {
+    {
         "model": "farm.farmreward",
         "fields": {
             "name": "Exiliado",
@@ -5132,7 +4959,6 @@
             "source": 33
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -5269,7 +5095,6 @@
             "source": 34
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -5406,7 +5231,6 @@
             "source": 35
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -5527,7 +5351,6 @@
             "source": 36
         }
     },
-    
     {
         "model": "farm.farmreward",
         "fields": {
@@ -5664,7 +5487,6 @@
             "source": 37
         }
     },
-    
     {
         "model": "farm.farmreward",
         "fields": {
@@ -5785,7 +5607,6 @@
             "source": 38
         }
     },
-
     {
         "model": "farm.farmreward",
         "fields": {
@@ -5924,2676 +5745,2626 @@
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Mora", 
-            "rarity": "COMUN", 
-            "source": 40 
+        "fields": {
+            "name": "Mora",
+            "rarity": "COMUN",
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-          "name": "Muestra ascendida: Caballo", 
-          "rarity": "LEGENDARIO", 
-          "source": 40 
+        "fields": {
+            "name": "Muestra ascendida: Caballo",
+            "rarity": "LEGENDARIO",
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
+        "fields": {
             "name": "Muestra ascendida: Torre",
-            "rarity": "LEGENDARIO", 
-            "source": 40 
+            "rarity": "LEGENDARIO",
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Muestra ascendida: Reina", 
-            "rarity": "LEGENDARIO", 
-            "source": 40 }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Ágata agnidus", 
-            "rarity": "LEGENDARIO", 
-            "source": 40 
+        "fields": {
+            "name": "Muestra ascendida: Reina",
+            "rarity": "LEGENDARIO",
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de ágata agnidus", 
-            "rarity": "EPICO", 
-            "source": 40 
+        "fields": {
+            "name": "Ágata agnidus",
+            "rarity": "LEGENDARIO",
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de ágata agnidus", 
-            "rarity": "RARO", 
-            "source": 40 
+        "fields": {
+            "name": "Trozo de ágata agnidus",
+            "rarity": "EPICO",
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de ágata agnidus", 
-            "rarity": "COMUN", 
-            "source": 40 
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Lazurita varunada", 
-            "rarity": "LEGENDARIO", 
-            "source": 40 
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de lazurita varunada", 
-            "rarity": "EPICO", 
-            "source": 40 
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de lazurita varunada", 
-            "rarity": "RARO", 
-            "source": 40 
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de lazurita varunada", 
-            "rarity": "COMUN", 
-            "source": 40 
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Amatista vajrada", 
-            "rarity": "LEGENDARIO", 
-            "source": 40 
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de amatista vajrada", 
-            "rarity": "EPICO", 
-            "source": 40 
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de amatista vajrada", 
+        "fields": {
+            "name": "Fragmento de ágata agnidus",
             "rarity": "RARO",
-            "source": 40 
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de amatista vajrada", 
-            "rarity": "COMUN", 
-            "source": 40 
+        "fields": {
+            "name": "Pedacito de ágata agnidus",
+            "rarity": "COMUN",
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Solvente de sueños", 
-            "rarity": "EPICO", 
-            "source": 40 
+        "fields": {
+            "name": "Lazurita varunada",
+            "rarity": "LEGENDARIO",
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "LEGENDARIO", 
-            "source": 40 
+        "fields": {
+            "name": "Trozo de lazurita varunada",
+            "rarity": "EPICO",
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Orquesta del Errante", 
-            "rarity": "LEGENDARIO", 
-            "source": 40 
+        "fields": {
+            "name": "Fragmento de lazurita varunada",
+            "rarity": "RARO",
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "EPICO", 
-            "source": 40 
+        "fields": {
+            "name": "Pedacito de lazurita varunada",
+            "rarity": "COMUN",
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
+        "fields": {
+            "name": "Amatista vajrada",
+            "rarity": "LEGENDARIO",
+            "source": 40
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Trozo de amatista vajrada",
+            "rarity": "EPICO",
+            "source": 40
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Fragmento de amatista vajrada",
+            "rarity": "RARO",
+            "source": 40
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Pedacito de amatista vajrada",
+            "rarity": "COMUN",
+            "source": 40
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Solvente de sueños",
+            "rarity": "EPICO",
+            "source": 40
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "LEGENDARIO",
+            "source": 40
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
             "name": "Orquesta del Errante",
-            "rarity": "EPICO", 
-            "source": 40 
+            "rarity": "LEGENDARIO",
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "EPICO", 
-            "source": 40 
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "EPICO",
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
-            "rarity": "EPICO", 
-            "source": 40 
+        "fields": {
+            "name": "Orquesta del Errante",
+            "rarity": "EPICO",
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "EPICO", 
-            "source": 40 
+        "fields": {
+            "name": "Berserker",
+            "rarity": "EPICO",
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "RARO", 
-            "source": 40 
+        "fields": {
+            "name": "Instructor",
+            "rarity": "EPICO",
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "EPICO",
+            "source": 40
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Berserker",
             "rarity": "RARO",
-            "source": 40 
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "RARO", 
-            "source": 40 
+        "fields": {
+            "name": "Instructor",
+            "rarity": "RARO",
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de espada del Norte", 
-            "rarity": "EPICO", 
-            "source": 40 
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "RARO",
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de arco del Norte", 
-            "rarity": "EPICO", 
-            "source": 40 
+        "fields": {
+            "name": "Prototipo de espada del Norte",
+            "rarity": "EPICO",
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de catalizador del Norte", 
-            "rarity": "EPICO", 
-            "source": 40 
+        "fields": {
+            "name": "Prototipo de arco del Norte",
+            "rarity": "EPICO",
+            "source": 40
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de lanza del Norte", 
-            "rarity": "EPICO", 
-            "source": 40 
+        "fields": {
+            "name": "Prototipo de catalizador del Norte",
+            "rarity": "EPICO",
+            "source": 40
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Mora", 
-            "rarity": "COMUN", 
+        "fields": {
+            "name": "Prototipo de lanza del Norte",
+            "rarity": "EPICO",
+            "source": 40
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Mora",
+            "rarity": "COMUN",
             "source": 41
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-          "name": "Cuerno corroído", 
-          "rarity": "LEGENDARIO", 
-          "source": 41 
+        "fields": {
+            "name": "Cuerno corroído",
+            "rarity": "LEGENDARIO",
+            "source": 41
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
+        "fields": {
             "name": "Fuego solar corroído",
-            "rarity": "LEGENDARIO", 
-            "source": 41 
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Plumaescama corroída", 
-            "rarity": "LEGENDARIO", 
+            "rarity": "LEGENDARIO",
             "source": 41
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Ágata agnidus", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Plumaescama corroída",
+            "rarity": "LEGENDARIO",
             "source": 41
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de ágata agnidus", 
-            "rarity": "EPICO", 
-            "source": 41 
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de ágata agnidus", 
-            "rarity": "RARO", 
+        "fields": {
+            "name": "Ágata agnidus",
+            "rarity": "LEGENDARIO",
             "source": 41
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de ágata agnidus", 
-            "rarity": "COMUN", 
+        "fields": {
+            "name": "Trozo de ágata agnidus",
+            "rarity": "EPICO",
             "source": 41
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Solvente de sueños", 
-            "rarity": "EPICO", 
-            "source": 41 
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "LEGENDARIO", 
-            "source": 41
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Orquesta del Errante", 
-            "rarity": "LEGENDARIO", 
-            "source": 41
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "EPICO", 
-            "source": 41 
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Orquesta del Errante",
-            "rarity": "EPICO", 
-            "source": 41 
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "EPICO", 
-            "source": 41
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
-            "rarity": "EPICO", 
-            "source": 41
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "EPICO", 
-            "source": 41
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "RARO", 
-            "source": 41
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
+        "fields": {
+            "name": "Fragmento de ágata agnidus",
             "rarity": "RARO",
             "source": 41
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "RARO", 
+        "fields": {
+            "name": "Pedacito de ágata agnidus",
+            "rarity": "COMUN",
             "source": 41
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de espada de las Tierra Fronterizas", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Solvente de sueños",
+            "rarity": "EPICO",
             "source": 41
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de arco de las Tierra Fronterizas", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "LEGENDARIO",
             "source": 41
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de catalizador de las Tierra Fronterizas", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Orquesta del Errante",
+            "rarity": "LEGENDARIO",
             "source": 41
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de lanza de las Tierra Fronterizas", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "EPICO",
             "source": 41
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Mora", 
-            "rarity": "COMUN", 
+        "fields": {
+            "name": "Orquesta del Errante",
+            "rarity": "EPICO",
+            "source": 41
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Berserker",
+            "rarity": "EPICO",
+            "source": 41
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Instructor",
+            "rarity": "EPICO",
+            "source": 41
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "EPICO",
+            "source": 41
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Berserker",
+            "rarity": "RARO",
+            "source": 41
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Instructor",
+            "rarity": "RARO",
+            "source": 41
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "RARO",
+            "source": 41
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de espada de las Tierra Fronterizas",
+            "rarity": "EPICO",
+            "source": 41
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de arco de las Tierra Fronterizas",
+            "rarity": "EPICO",
+            "source": 41
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de catalizador de las Tierra Fronterizas",
+            "rarity": "EPICO",
+            "source": 41
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de lanza de las Tierra Fronterizas",
+            "rarity": "EPICO",
+            "source": 41
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Mora",
+            "rarity": "COMUN",
             "source": 42
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-          "name": "Vela agonizante", 
-          "rarity": "LEGENDARIO", 
-          "source": 42 
+        "fields": {
+            "name": "Vela agonizante",
+            "rarity": "LEGENDARIO",
+            "source": 42
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
+        "fields": {
             "name": "Pluma de seda",
-            "rarity": "LEGENDARIO", 
+            "rarity": "LEGENDARIO",
             "source": 42
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Veridicto negativo", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Veridicto negativo",
+            "rarity": "LEGENDARIO",
             "source": 42
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Ágata agnidus", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Ágata agnidus",
+            "rarity": "LEGENDARIO",
             "source": 42
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de ágata agnidus", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Trozo de ágata agnidus",
+            "rarity": "EPICO",
             "source": 42
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de ágata agnidus", 
-            "rarity": "RARO", 
-            "source": 42
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de ágata agnidus", 
-            "rarity": "COMUN", 
-            "source": 42
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Solvente de sueños", 
-            "rarity": "EPICO", 
-            "source": 42
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "LEGENDARIO", 
-            "source": 42
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Orquesta del Errante", 
-            "rarity": "LEGENDARIO", 
-            "source": 42
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "EPICO", 
-            "source": 42
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Orquesta del Errante",
-            "rarity": "EPICO", 
-            "source": 42
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "EPICO", 
-            "source": 42
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
-            "rarity": "EPICO", 
-            "source": 42
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "EPICO", 
-            "source": 42
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "RARO", 
-            "source": 42
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
+        "fields": {
+            "name": "Fragmento de ágata agnidus",
             "rarity": "RARO",
             "source": 42
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "RARO", 
+        "fields": {
+            "name": "Pedacito de ágata agnidus",
+            "rarity": "COMUN",
             "source": 42
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de espada de las Regiones Centrales", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Solvente de sueños",
+            "rarity": "EPICO",
             "source": 42
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de arco de las Regiones Centrales", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "LEGENDARIO",
             "source": 42
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de catalizador de las Regiones Centrales", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Orquesta del Errante",
+            "rarity": "LEGENDARIO",
             "source": 42
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de lanza de las Regiones Centrales", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "EPICO",
             "source": 42
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Mora", 
-            "rarity": "COMUN", 
+        "fields": {
+            "name": "Orquesta del Errante",
+            "rarity": "EPICO",
+            "source": 42
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Berserker",
+            "rarity": "EPICO",
+            "source": 42
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Instructor",
+            "rarity": "EPICO",
+            "source": 42
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "EPICO",
+            "source": 42
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Berserker",
+            "rarity": "RARO",
+            "source": 42
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Instructor",
+            "rarity": "RARO",
+            "source": 42
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "RARO",
+            "source": 42
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de espada de las Regiones Centrales",
+            "rarity": "EPICO",
+            "source": 42
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de arco de las Regiones Centrales",
+            "rarity": "EPICO",
+            "source": 42
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de catalizador de las Regiones Centrales",
+            "rarity": "EPICO",
+            "source": 42
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de lanza de las Regiones Centrales",
+            "rarity": "EPICO",
+            "source": 42
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Mora",
+            "rarity": "COMUN",
             "source": 43
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-          "name": "Hilo de seda deslucido", 
-          "rarity": "LEGENDARIO", 
-          "source": 43
+        "fields": {
+            "name": "Hilo de seda deslucido",
+            "rarity": "LEGENDARIO",
+            "source": 43
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
+        "fields": {
             "name": "Ojo del vórtice deslucido",
-            "rarity": "LEGENDARIO", 
+            "rarity": "LEGENDARIO",
             "source": 43
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Masa deslucida", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Masa deslucida",
+            "rarity": "LEGENDARIO",
             "source": 43
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Lazurita varunada", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Lazurita varunada",
+            "rarity": "LEGENDARIO",
             "source": 43
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de lazurita varunada", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Trozo de lazurita varunada",
+            "rarity": "EPICO",
             "source": 43
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de lazurita varunada", 
-            "rarity": "RARO", 
-            "source": 43
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de lazurita varunada", 
-            "rarity": "COMUN", 
-            "source": 43
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Solvente de sueños", 
-            "rarity": "EPICO", 
-            "source": 43
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "LEGENDARIO", 
-            "source": 43
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Orquesta del Errante", 
-            "rarity": "LEGENDARIO", 
-            "source": 43
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "EPICO", 
-            "source": 43
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Orquesta del Errante",
-            "rarity": "EPICO", 
-            "source": 43
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "EPICO", 
-            "source": 43
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
-            "rarity": "EPICO", 
-            "source": 43
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "EPICO", 
-            "source": 43
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "RARO", 
-            "source": 43
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
+        "fields": {
+            "name": "Fragmento de lazurita varunada",
             "rarity": "RARO",
             "source": 43
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "RARO", 
+        "fields": {
+            "name": "Pedacito de lazurita varunada",
+            "rarity": "COMUN",
             "source": 43
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de espada de las Regiones Centrales", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Solvente de sueños",
+            "rarity": "EPICO",
             "source": 43
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de arco de las Regiones Centrales", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "LEGENDARIO",
             "source": 43
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de catalizador de las Regiones Centrales", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Orquesta del Errante",
+            "rarity": "LEGENDARIO",
             "source": 43
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de lanza de las Regiones Centrales", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "EPICO",
             "source": 43
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Mora", 
-            "rarity": "COMUN", 
+        "fields": {
+            "name": "Orquesta del Errante",
+            "rarity": "EPICO",
+            "source": 43
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Berserker",
+            "rarity": "EPICO",
+            "source": 43
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Instructor",
+            "rarity": "EPICO",
+            "source": 43
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "EPICO",
+            "source": 43
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Berserker",
+            "rarity": "RARO",
+            "source": 43
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Instructor",
+            "rarity": "RARO",
+            "source": 43
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "RARO",
+            "source": 43
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de espada de las Regiones Centrales",
+            "rarity": "EPICO",
+            "source": 43
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de arco de las Regiones Centrales",
+            "rarity": "EPICO",
+            "source": 43
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de catalizador de las Regiones Centrales",
+            "rarity": "EPICO",
+            "source": 43
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de lanza de las Regiones Centrales",
+            "rarity": "EPICO",
+            "source": 43
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Mora",
+            "rarity": "COMUN",
             "source": 44
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-          "name": "Helecho del paraíso exuberante", 
-          "rarity": "LEGENDARIO", 
-          "source": 44
+        "fields": {
+            "name": "Helecho del paraíso exuberante",
+            "rarity": "LEGENDARIO",
+            "source": 44
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
+        "fields": {
             "name": "Floración primigenia del oasis",
-            "rarity": "LEGENDARIO", 
+            "rarity": "LEGENDARIO",
             "source": 44
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instante del mar arbóreo", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Instante del mar arbóreo",
+            "rarity": "LEGENDARIO",
             "source": 44
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Esmeralda nagadus", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Esmeralda nagadus",
+            "rarity": "LEGENDARIO",
             "source": 44
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de esmeralda nagadus", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Trozo de esmeralda nagadus",
+            "rarity": "EPICO",
             "source": 44
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de esmeralda nagadus", 
-            "rarity": "RARO", 
-            "source": 44
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de esmeralda nagadus", 
-            "rarity": "COMUN", 
-            "source": 44
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Solvente de sueños", 
-            "rarity": "EPICO", 
-            "source": 44
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "LEGENDARIO", 
-            "source": 44
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Orquesta del Errante", 
-            "rarity": "LEGENDARIO", 
-            "source": 44
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "EPICO", 
-            "source": 44
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Orquesta del Errante",
-            "rarity": "EPICO", 
-            "source": 44
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "EPICO", 
-            "source": 44
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
-            "rarity": "EPICO", 
-            "source": 44
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "EPICO", 
-            "source": 44
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "RARO", 
-            "source": 44
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
+        "fields": {
+            "name": "Fragmento de esmeralda nagadus",
             "rarity": "RARO",
             "source": 44
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "RARO", 
+        "fields": {
+            "name": "Pedacito de esmeralda nagadus",
+            "rarity": "COMUN",
             "source": 44
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de espada de las Regiones Centrales", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Solvente de sueños",
+            "rarity": "EPICO",
             "source": 44
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de arco de las Regiones Centrales", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "LEGENDARIO",
             "source": 44
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de catalizador de las Regiones Centrales", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Orquesta del Errante",
+            "rarity": "LEGENDARIO",
             "source": 44
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de lanza de las Regiones Centrales", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "EPICO",
             "source": 44
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Mora", 
-            "rarity": "COMUN", 
+        "fields": {
+            "name": "Orquesta del Errante",
+            "rarity": "EPICO",
+            "source": 44
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Berserker",
+            "rarity": "EPICO",
+            "source": 44
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Instructor",
+            "rarity": "EPICO",
+            "source": 44
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "EPICO",
+            "source": 44
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Berserker",
+            "rarity": "RARO",
+            "source": 44
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Instructor",
+            "rarity": "RARO",
+            "source": 44
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "RARO",
+            "source": 44
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de espada de las Regiones Centrales",
+            "rarity": "EPICO",
+            "source": 44
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de arco de las Regiones Centrales",
+            "rarity": "EPICO",
+            "source": 44
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de catalizador de las Regiones Centrales",
+            "rarity": "EPICO",
+            "source": 44
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de lanza de las Regiones Centrales",
+            "rarity": "EPICO",
+            "source": 44
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Mora",
+            "rarity": "COMUN",
             "source": 45
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-          "name": "Tubo de marioneta", 
-          "rarity": "LEGENDARIO", 
-          "source": 45
+        "fields": {
+            "name": "Tubo de marioneta",
+            "rarity": "LEGENDARIO",
+            "source": 45
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
+        "fields": {
             "name": "Espejo del mushin",
-            "rarity": "LEGENDARIO", 
+            "rarity": "LEGENDARIO",
             "source": 45
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Cascabel de anulación", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Cascabel de anulación",
+            "rarity": "LEGENDARIO",
             "source": 45
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Amatista vajrada", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Amatista vajrada",
+            "rarity": "LEGENDARIO",
             "source": 45
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de amatista vajrada", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Trozo de amatista vajrada",
+            "rarity": "EPICO",
             "source": 45
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de amatista vajrada", 
-            "rarity": "RARO", 
-            "source": 45 
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de amatista vajrada", 
-            "rarity": "COMUN", 
-            "source": 45 
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Turquesa vayuda", 
-            "rarity": "LEGENDARIO", 
-            "source": 45 
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de turquesa vayuda", 
-            "rarity": "EPICO", 
-            "source": 45 
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de turquesa vayuda", 
-            "rarity": "RARO", 
-            "source": 45
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de turquesa vayuda", 
-            "rarity": "COMUN", 
-            "source": 45 
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Lazurita varunada", 
-            "rarity": "LEGENDARIO", 
-            "source": 45 
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de lazurita varunada", 
-            "rarity": "EPICO", 
-            "source": 45
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de lazurita varunada", 
+        "fields": {
+            "name": "Fragmento de amatista vajrada",
             "rarity": "RARO",
-            "source": 45 
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de lazurita varunada", 
-            "rarity": "COMUN", 
-            "source": 45 
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Solvente de sueños", 
-            "rarity": "EPICO", 
-            "source": 45 
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "LEGENDARIO", 
             "source": 45
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Orquesta del Errante", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Pedacito de amatista vajrada",
+            "rarity": "COMUN",
             "source": 45
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Turquesa vayuda",
+            "rarity": "LEGENDARIO",
             "source": 45
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
+        "fields": {
+            "name": "Trozo de turquesa vayuda",
+            "rarity": "EPICO",
+            "source": 45
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Fragmento de turquesa vayuda",
+            "rarity": "RARO",
+            "source": 45
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Pedacito de turquesa vayuda",
+            "rarity": "COMUN",
+            "source": 45
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Lazurita varunada",
+            "rarity": "LEGENDARIO",
+            "source": 45
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Trozo de lazurita varunada",
+            "rarity": "EPICO",
+            "source": 45
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Fragmento de lazurita varunada",
+            "rarity": "RARO",
+            "source": 45
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Pedacito de lazurita varunada",
+            "rarity": "COMUN",
+            "source": 45
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Solvente de sueños",
+            "rarity": "EPICO",
+            "source": 45
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "LEGENDARIO",
+            "source": 45
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
             "name": "Orquesta del Errante",
-            "rarity": "EPICO", 
+            "rarity": "LEGENDARIO",
             "source": 45
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "EPICO",
             "source": 45
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Orquesta del Errante",
+            "rarity": "EPICO",
             "source": 45
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Berserker",
+            "rarity": "EPICO",
             "source": 45
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "RARO", 
+        "fields": {
+            "name": "Instructor",
+            "rarity": "EPICO",
             "source": 45
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "EPICO",
+            "source": 45
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Berserker",
             "rarity": "RARO",
             "source": 45
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "RARO", 
+        "fields": {
+            "name": "Instructor",
+            "rarity": "RARO",
             "source": 45
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de espada de las Regiones Centrales", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "RARO",
             "source": 45
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de arco de las Regiones Centrales", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Prototipo de espada de las Regiones Centrales",
+            "rarity": "EPICO",
             "source": 45
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de catalizador de las Regiones Centrales", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Prototipo de arco de las Regiones Centrales",
+            "rarity": "EPICO",
             "source": 45
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de lanza de las Regiones Centrales", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Prototipo de catalizador de las Regiones Centrales",
+            "rarity": "EPICO",
             "source": 45
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Mora", 
-            "rarity": "COMUN", 
+        "fields": {
+            "name": "Prototipo de lanza de las Regiones Centrales",
+            "rarity": "EPICO",
+            "source": 45
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Mora",
+            "rarity": "COMUN",
             "source": 46
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-          "name": "Mudra de la Shogun implacable", 
-          "rarity": "LEGENDARIO", 
-          "source": 46
+        "fields": {
+            "name": "Mudra de la Shogun implacable",
+            "rarity": "LEGENDARIO",
+            "source": 46
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
+        "fields": {
             "name": "Lágrima de la diosa del desastre",
-            "rarity": "LEGENDARIO", 
+            "rarity": "LEGENDARIO",
             "source": 46
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Máxima de la catástrofe", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Máxima de la catástrofe",
+            "rarity": "LEGENDARIO",
             "source": 46
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Amatista vajrada", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Amatista vajrada",
+            "rarity": "LEGENDARIO",
             "source": 46
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de amatista vajrada", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Trozo de amatista vajrada",
+            "rarity": "EPICO",
             "source": 46
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de amatista vajrada", 
-            "rarity": "RARO", 
-            "source": 46
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de amatista vajrada", 
-            "rarity": "COMUN", 
-            "source": 46
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Solvente de sueños", 
-            "rarity": "EPICO", 
-            "source": 46
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "LEGENDARIO", 
-            "source": 46
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Orquesta del Errante", 
-            "rarity": "LEGENDARIO", 
-            "source": 46
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "EPICO", 
-            "source": 46
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Orquesta del Errante",
-            "rarity": "EPICO", 
-            "source": 46
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "EPICO", 
-            "source": 46
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
-            "rarity": "EPICO", 
-            "source": 46
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "EPICO", 
-            "source": 46
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "RARO", 
-            "source": 46
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
+        "fields": {
+            "name": "Fragmento de amatista vajrada",
             "rarity": "RARO",
             "source": 46
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "RARO", 
+        "fields": {
+            "name": "Pedacito de amatista vajrada",
+            "rarity": "COMUN",
             "source": 46
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de espada del Norte", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Solvente de sueños",
+            "rarity": "EPICO",
             "source": 46
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de arco del Norte", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "LEGENDARIO",
             "source": 46
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de catalizador del Norte", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Orquesta del Errante",
+            "rarity": "LEGENDARIO",
             "source": 46
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de lanza del Norte", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "EPICO",
             "source": 46
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Mora", 
-            "rarity": "COMUN", 
+        "fields": {
+            "name": "Orquesta del Errante",
+            "rarity": "EPICO",
+            "source": 46
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Berserker",
+            "rarity": "EPICO",
+            "source": 46
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Instructor",
+            "rarity": "EPICO",
+            "source": 46
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "EPICO",
+            "source": 46
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Berserker",
+            "rarity": "RARO",
+            "source": 46
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Instructor",
+            "rarity": "RARO",
+            "source": 46
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "RARO",
+            "source": 46
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de espada del Norte",
+            "rarity": "EPICO",
+            "source": 46
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de arco del Norte",
+            "rarity": "EPICO",
+            "source": 46
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de catalizador del Norte",
+            "rarity": "EPICO",
+            "source": 46
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de lanza del Norte",
+            "rarity": "EPICO",
+            "source": 46
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Mora",
+            "rarity": "COMUN",
             "source": 47
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-          "name": "Momento del derretimiento", 
-          "rarity": "LEGENDARIO", 
-          "source": 47
+        "fields": {
+            "name": "Momento del derretimiento",
+            "rarity": "LEGENDARIO",
+            "source": 47
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
+        "fields": {
             "name": "Mariposa del fuego infernal",
-            "rarity": "LEGENDARIO", 
+            "rarity": "LEGENDARIO",
             "source": 47
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Corazón de las cenizas", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Corazón de las cenizas",
+            "rarity": "LEGENDARIO",
             "source": 47
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Jade shivada", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Jade shivada",
+            "rarity": "LEGENDARIO",
             "source": 47
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de jade shivada", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Trozo de jade shivada",
+            "rarity": "EPICO",
             "source": 47
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de jade shivada", 
-            "rarity": "RARO", 
-            "source": 47
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de jade shivada", 
-            "rarity": "COMUN", 
-            "source": 47
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Ágata agnidus", 
-            "rarity": "LEGENDARIO", 
-            "source": 47
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de ágata agnidus", 
-            "rarity": "EPICO", 
-            "source": 47
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de ágata agnidus", 
-            "rarity": "RARO", 
-            "source": 47
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de ágata agnidus", 
-            "rarity": "COMUN", 
-            "source": 47
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Solvente de sueños", 
-            "rarity": "EPICO", 
-            "source": 47
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "LEGENDARIO", 
-            "source": 47
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Orquesta del Errante", 
-            "rarity": "LEGENDARIO", 
-            "source": 47
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "EPICO", 
-            "source": 47
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Orquesta del Errante",
-            "rarity": "EPICO", 
-            "source": 47
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "EPICO", 
-            "source": 47
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
-            "rarity": "EPICO", 
-            "source": 47
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "EPICO", 
-            "source": 47
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "RARO", 
-            "source": 47
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
+        "fields": {
+            "name": "Fragmento de jade shivada",
             "rarity": "RARO",
             "source": 47
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "RARO", 
+        "fields": {
+            "name": "Pedacito de jade shivada",
+            "rarity": "COMUN",
             "source": 47
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de espada del Norte", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Ágata agnidus",
+            "rarity": "LEGENDARIO",
             "source": 47
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de arco del Norte", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Trozo de ágata agnidus",
+            "rarity": "EPICO",
             "source": 47
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de catalizador del Norte", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Fragmento de ágata agnidus",
+            "rarity": "RARO",
             "source": 47
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de lanza del Norte", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Pedacito de ágata agnidus",
+            "rarity": "COMUN",
             "source": 47
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Mora", 
-            "rarity": "COMUN", 
+        "fields": {
+            "name": "Solvente de sueños",
+            "rarity": "EPICO",
+            "source": 47
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "LEGENDARIO",
+            "source": 47
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Orquesta del Errante",
+            "rarity": "LEGENDARIO",
+            "source": 47
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "EPICO",
+            "source": 47
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Orquesta del Errante",
+            "rarity": "EPICO",
+            "source": 47
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Berserker",
+            "rarity": "EPICO",
+            "source": 47
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Instructor",
+            "rarity": "EPICO",
+            "source": 47
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "EPICO",
+            "source": 47
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Berserker",
+            "rarity": "RARO",
+            "source": 47
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Instructor",
+            "rarity": "RARO",
+            "source": 47
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "RARO",
+            "source": 47
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de espada del Norte",
+            "rarity": "EPICO",
+            "source": 47
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de arco del Norte",
+            "rarity": "EPICO",
+            "source": 47
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de catalizador del Norte",
+            "rarity": "EPICO",
+            "source": 47
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de lanza del Norte",
+            "rarity": "EPICO",
+            "source": 47
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Mora",
+            "rarity": "COMUN",
             "source": 48
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-          "name": "Corona del rey dragón", 
-          "rarity": "LEGENDARIO", 
-          "source": 48
+        "fields": {
+            "name": "Corona del rey dragón",
+            "rarity": "LEGENDARIO",
+            "source": 48
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
+        "fields": {
             "name": "Rama de jade carmesí",
-            "rarity": "LEGENDARIO", 
+            "rarity": "LEGENDARIO",
             "source": 48
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Escama dorada", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Escama dorada",
+            "rarity": "LEGENDARIO",
             "source": 48
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Ágata agnidus", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Ágata agnidus",
+            "rarity": "LEGENDARIO",
             "source": 48
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de ágata agnidus", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Trozo de ágata agnidus",
+            "rarity": "EPICO",
             "source": 48
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de ágata agnidus", 
-            "rarity": "RARO", 
-            "source": 48
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de ágata agnidus", 
-            "rarity": "COMUN", 
-            "source": 48
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Jade shivada", 
-            "rarity": "LEGENDARIO", 
-            "source": 48
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de jade shivada", 
-            "rarity": "EPICO", 
-            "source": 48
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de jade shivada", 
-            "rarity": "RARO", 
-            "source": 48
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de jade shivada", 
-            "rarity": "COMUN", 
-            "source": 48
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Topacio prithiva", 
-            "rarity": "LEGENDARIO", 
-            "source": 48
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de topacio prithiva", 
-            "rarity": "EPICO", 
-            "source": 48
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de topacio prithiva", 
-            "rarity": "RARO", 
-            "source": 48
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de topacio prithiva", 
-            "rarity": "COMUN", 
-            "source": 48
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Solvente de sueños", 
-            "rarity": "EPICO", 
-            "source": 48
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "LEGENDARIO", 
-            "source": 48
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Orquesta del Errante", 
-            "rarity": "LEGENDARIO", 
-            "source": 48
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "EPICO", 
-            "source": 48
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Orquesta del Errante",
-            "rarity": "EPICO", 
-            "source": 48
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "EPICO", 
-            "source": 48
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
-            "rarity": "EPICO", 
-            "source": 48
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "EPICO", 
-            "source": 48
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "RARO", 
-            "source": 48
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
+        "fields": {
+            "name": "Fragmento de ágata agnidus",
             "rarity": "RARO",
             "source": 48
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "RARO", 
+        "fields": {
+            "name": "Pedacito de ágata agnidus",
+            "rarity": "COMUN",
             "source": 48
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de espada del Norte", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Jade shivada",
+            "rarity": "LEGENDARIO",
             "source": 48
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de arco del Norte", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Trozo de jade shivada",
+            "rarity": "EPICO",
             "source": 48
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de catalizador del Norte", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Fragmento de jade shivada",
+            "rarity": "RARO",
             "source": 48
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de lanza del Norte", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Pedacito de jade shivada",
+            "rarity": "COMUN",
             "source": 48
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Mora", 
-            "rarity": "COMUN", 
+        "fields": {
+            "name": "Topacio prithiva",
+            "rarity": "LEGENDARIO",
+            "source": 48
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Trozo de topacio prithiva",
+            "rarity": "EPICO",
+            "source": 48
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Fragmento de topacio prithiva",
+            "rarity": "RARO",
+            "source": 48
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Pedacito de topacio prithiva",
+            "rarity": "COMUN",
+            "source": 48
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Solvente de sueños",
+            "rarity": "EPICO",
+            "source": 48
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "LEGENDARIO",
+            "source": 48
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Orquesta del Errante",
+            "rarity": "LEGENDARIO",
+            "source": 48
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "EPICO",
+            "source": 48
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Orquesta del Errante",
+            "rarity": "EPICO",
+            "source": 48
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Berserker",
+            "rarity": "EPICO",
+            "source": 48
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Instructor",
+            "rarity": "EPICO",
+            "source": 48
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "EPICO",
+            "source": 48
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Berserker",
+            "rarity": "RARO",
+            "source": 48
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Instructor",
+            "rarity": "RARO",
+            "source": 48
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "RARO",
+            "source": 48
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de espada del Norte",
+            "rarity": "EPICO",
+            "source": 48
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de arco del Norte",
+            "rarity": "EPICO",
+            "source": 48
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de catalizador del Norte",
+            "rarity": "EPICO",
+            "source": 48
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de lanza del Norte",
+            "rarity": "EPICO",
+            "source": 48
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Mora",
+            "rarity": "COMUN",
             "source": 49
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-          "name": "Cuerno de Monoceros Caeli", 
-          "rarity": "LEGENDARIO", 
-          "source": 49
+        "fields": {
+            "name": "Cuerno de Monoceros Caeli",
+            "rarity": "LEGENDARIO",
+            "source": 49
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
+        "fields": {
             "name": "Fragmento de espada de Legado del mal",
-            "rarity": "LEGENDARIO", 
+            "rarity": "LEGENDARIO",
             "source": 49
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Sombra del guerrero", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Sombra del guerrero",
+            "rarity": "LEGENDARIO",
             "source": 49
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Lazurita varunada", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Lazurita varunada",
+            "rarity": "LEGENDARIO",
             "source": 49
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de lazurita varunada", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Trozo de lazurita varunada",
+            "rarity": "EPICO",
             "source": 49
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de lazurita varunada", 
-            "rarity": "RARO", 
-            "source": 49
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de lazurita varunada", 
-            "rarity": "COMUN", 
-            "source": 49
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Amatista vajrada", 
-            "rarity": "LEGENDARIO", 
-            "source": 49
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de amatista vajrada", 
-            "rarity": "EPICO", 
-            "source": 49
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de amatista vajrada", 
-            "rarity": "RARO", 
-            "source": 49
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de amatista vajrada", 
-            "rarity": "COMUN", 
-            "source": 49
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Jade shivada", 
-            "rarity": "LEGENDARIO", 
-            "source": 49
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de jade shivada", 
-            "rarity": "EPICO", 
-            "source": 49
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de jade shivada", 
-            "rarity": "RARO", 
-            "source": 49
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de jade shivada", 
-            "rarity": "COMUN", 
-            "source": 49
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Solvente de sueños", 
-            "rarity": "EPICO", 
-            "source": 49
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "LEGENDARIO", 
-            "source": 49
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Orquesta del Errante", 
-            "rarity": "LEGENDARIO", 
-            "source": 49
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "EPICO", 
-            "source": 49
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Orquesta del Errante",
-            "rarity": "EPICO", 
-            "source": 49
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "EPICO", 
-            "source": 49
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
-            "rarity": "EPICO", 
-            "source": 49
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "EPICO", 
-            "source": 49
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "RARO", 
-            "source": 49
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
+        "fields": {
+            "name": "Fragmento de lazurita varunada",
             "rarity": "RARO",
             "source": 49
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "RARO", 
+        "fields": {
+            "name": "Pedacito de lazurita varunada",
+            "rarity": "COMUN",
             "source": 49
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de espada del Norte", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Amatista vajrada",
+            "rarity": "LEGENDARIO",
             "source": 49
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de arco del Norte", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Trozo de amatista vajrada",
+            "rarity": "EPICO",
             "source": 49
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de catalizador del Norte", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Fragmento de amatista vajrada",
+            "rarity": "RARO",
             "source": 49
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de lanza del Norte", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Pedacito de amatista vajrada",
+            "rarity": "COMUN",
             "source": 49
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Mora", 
-            "rarity": "COMUN", 
+        "fields": {
+            "name": "Jade shivada",
+            "rarity": "LEGENDARIO",
+            "source": 49
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Trozo de jade shivada",
+            "rarity": "EPICO",
+            "source": 49
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Fragmento de jade shivada",
+            "rarity": "RARO",
+            "source": 49
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Pedacito de jade shivada",
+            "rarity": "COMUN",
+            "source": 49
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Solvente de sueños",
+            "rarity": "EPICO",
+            "source": 49
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "LEGENDARIO",
+            "source": 49
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Orquesta del Errante",
+            "rarity": "LEGENDARIO",
+            "source": 49
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "EPICO",
+            "source": 49
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Orquesta del Errante",
+            "rarity": "EPICO",
+            "source": 49
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Berserker",
+            "rarity": "EPICO",
+            "source": 49
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Instructor",
+            "rarity": "EPICO",
+            "source": 49
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "EPICO",
+            "source": 49
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Berserker",
+            "rarity": "RARO",
+            "source": 49
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Instructor",
+            "rarity": "RARO",
+            "source": 49
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "RARO",
+            "source": 49
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de espada del Norte",
+            "rarity": "EPICO",
+            "source": 49
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de arco del Norte",
+            "rarity": "EPICO",
+            "source": 49
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de catalizador del Norte",
+            "rarity": "EPICO",
+            "source": 49
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de lanza del Norte",
+            "rarity": "EPICO",
+            "source": 49
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Mora",
+            "rarity": "COMUN",
             "source": 50
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-          "name": "Pluma de Stormterror", 
-          "rarity": "LEGENDARIO", 
-          "source": 50
+        "fields": {
+            "name": "Pluma de Stormterror",
+            "rarity": "LEGENDARIO",
+            "source": 50
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
+        "fields": {
             "name": "Garra de Stormterror",
-            "rarity": "LEGENDARIO", 
+            "rarity": "LEGENDARIO",
             "source": 50
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Suspiro de Stormterror", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Suspiro de Stormterror",
+            "rarity": "LEGENDARIO",
             "source": 50
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Turquesa vayuda", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Turquesa vayuda",
+            "rarity": "LEGENDARIO",
             "source": 50
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de turquesa vayuda", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Trozo de turquesa vayuda",
+            "rarity": "EPICO",
             "source": 50
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de turquesa vayuda", 
-            "rarity": "RARO", 
-            "source": 50
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de turquesa vayuda", 
-            "rarity": "COMUN", 
-            "source": 50
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Amatista vajrada", 
-            "rarity": "LEGENDARIO", 
-            "source": 50
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de amatista vajrada", 
-            "rarity": "EPICO", 
-            "source": 50
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de amatista vajrada", 
-            "rarity": "RARO", 
-            "source": 50
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de amatista vajrada", 
-            "rarity": "COMUN", 
-            "source": 50
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Lazurita varunada", 
-            "rarity": "LEGENDARIO", 
-            "source": 50
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Trozo de lazurita varunada", 
-            "rarity": "EPICO", 
-            "source": 50
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de lazurita varunada", 
-            "rarity": "RARO", 
-            "source": 50
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Pedacito de lazurita varunada", 
-            "rarity": "COMUN", 
-            "source": 50
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Solvente de sueños", 
-            "rarity": "EPICO", 
-            "source": 50
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "LEGENDARIO", 
-            "source": 50
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Orquesta del Errante", 
-            "rarity": "LEGENDARIO", 
-            "source": 50
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Final del Gladiador", 
-            "rarity": "EPICO", 
-            "source": 50
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Orquesta del Errante",
-            "rarity": "EPICO", 
-            "source": 50
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "EPICO", 
-            "source": 50
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
-            "rarity": "EPICO", 
-            "source": 50
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "EPICO", 
-            "source": 50
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Berserker", 
-            "rarity": "RARO", 
-            "source": 50
-        }
-    },
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Instructor", 
+        "fields": {
+            "name": "Fragmento de turquesa vayuda",
             "rarity": "RARO",
             "source": 50
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Exiliado", 
-            "rarity": "RARO", 
+        "fields": {
+            "name": "Pedacito de turquesa vayuda",
+            "rarity": "COMUN",
             "source": 50
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de espada del Norte", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Amatista vajrada",
+            "rarity": "LEGENDARIO",
             "source": 50
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de arco del Norte", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Trozo de amatista vajrada",
+            "rarity": "EPICO",
             "source": 50
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de catalizador del Norte", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Fragmento de amatista vajrada",
+            "rarity": "RARO",
             "source": 50
         }
     },
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Prototipo de lanza del Norte", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Pedacito de amatista vajrada",
+            "rarity": "COMUN",
             "source": 50
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Flor del milagro", 
-            "rarity": "RARO", 
+        "fields": {
+            "name": "Lazurita varunada",
+            "rarity": "LEGENDARIO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Trozo de lazurita varunada",
+            "rarity": "EPICO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Fragmento de lazurita varunada",
+            "rarity": "RARO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Pedacito de lazurita varunada",
+            "rarity": "COMUN",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Solvente de sueños",
+            "rarity": "EPICO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "LEGENDARIO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Orquesta del Errante",
+            "rarity": "LEGENDARIO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Final del Gladiador",
+            "rarity": "EPICO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Orquesta del Errante",
+            "rarity": "EPICO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Berserker",
+            "rarity": "EPICO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Instructor",
+            "rarity": "EPICO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "EPICO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Berserker",
+            "rarity": "RARO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Instructor",
+            "rarity": "RARO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Exiliado",
+            "rarity": "RARO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de espada del Norte",
+            "rarity": "EPICO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de arco del Norte",
+            "rarity": "EPICO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de catalizador del Norte",
+            "rarity": "EPICO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Prototipo de lanza del Norte",
+            "rarity": "EPICO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Flor del milagro",
+            "rarity": "RARO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Flor del milagro",
+            "rarity": "EPICO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Flor de la médica itinerante",
+            "rarity": "POCO COMUN",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Flor de la médica itinerante",
+            "rarity": "RARO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Flor de la doncella amada",
+            "rarity": "EPICO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Flor de la doncella amada",
+            "rarity": "LEGENDARIO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Flor de la sombra verde esmeralda",
+            "rarity": "EPICO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Flor de la sombra verde esmeralda",
+            "rarity": "LEGENDARIO",
+            "source": 50
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Mora",
+            "rarity": "COMUN",
             "source": 51
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Flor del milagro", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Fragmento de azulejo de Decarabian",
+            "rarity": "POCO COMUN",
             "source": 51
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Flor de la médica itinerante", 
-            "rarity": "POCO COMUN", 
+        "fields": {
+            "name": "Escombro de de la ciudad de Decarabian",
+            "rarity": "RARO",
             "source": 51
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Flor de la médica itinerante", 
-            "rarity": "RARO", 
+        "fields": {
+            "name": "Fragmento de epopeya de Decarabian",
+            "rarity": "EPICO",
             "source": 51
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Flor de la doncella amada", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Fragmento de sueño de Decarabian",
+            "rarity": "LEGENDARIO",
             "source": 51
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Flor de la doncella amada", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Diente de leche de lobo boreal",
+            "rarity": "POCO COMUN",
             "source": 51
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Flor de la sombra verde esmeralda", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Diente roto de lobo boreal",
+            "rarity": "RARO",
             "source": 51
         }
     },
-    
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Flor de la sombra verde esmeralda", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Colmillo de lobo boreal",
+            "rarity": "EPICO",
             "source": 51
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Mora", 
-            "rarity": "COMUN", 
+        "fields": {
+            "name": "Nostalgia del lobo boreal",
+            "rarity": "LEGENDARIO",
             "source": 51
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de azulejo de Decarabian", 
-            "rarity": "POCO COMUN", 
+        "fields": {
+            "name": "Grilletes de diente de leon",
+            "rarity": "POCO COMUN",
+            "source": 51
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Cadena de diente de leon",
+            "rarity": "RARO",
+            "source": 51
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Esposas de diente de leon",
+            "rarity": "EPICO",
+            "source": 51
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Ideales de diente de leon",
+            "rarity": "LEGENDARIO",
+            "source": 51
+        }
+    },
+    {
+        "model": "farm.farmreward",
+        "fields": {
+            "name": "Mora",
+            "rarity": "COMUN",
             "source": 52
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Escombro de de la ciudad de Decarabian", 
-            "rarity": "RARO", 
+        "fields": {
+            "name": "Enseñanzas de la libertad",
+            "rarity": "POCO COMUN",
             "source": 52
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de epopeya de Decarabian", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Guia de la libertad",
+            "rarity": "RARO",
             "source": 52
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Fragmento de sueño de Decarabian", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Filosofia de la libertad",
+            "rarity": "EPICO",
             "source": 52
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Diente de leche de lobo boreal", 
-            "rarity": "POCO COMUN", 
+        "fields": {
+            "name": "Enseñanzas de la resistencia",
+            "rarity": "POCO COMUN",
             "source": 52
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Diente roto de lobo boreal", 
-            "rarity": "RARO", 
+        "fields": {
+            "name": "Guia de la resistencia",
+            "rarity": "RARO",
             "source": 52
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Colmillo de lobo boreal", 
-            "rarity": "EPICO", 
+        "fields": {
+            "name": "Filosofia de la resistencia",
+            "rarity": "EPICO",
             "source": 52
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Nostalgia del lobo boreal", 
-            "rarity": "LEGENDARIO", 
+        "fields": {
+            "name": "Enseñanzas de la poesia",
+            "rarity": "POCO COMUN",
             "source": 52
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Grilletes de diente de leon", 
-            "rarity": "POCO COMUN", 
+        "fields": {
+            "name": "Guia de la poesia",
+            "rarity": "RARO",
             "source": 52
         }
     },
-
     {
         "model": "farm.farmreward",
-        "fields": { 
-            "name": "Cadena de diente de leon", 
-            "rarity": "RARO", 
+        "fields": {
+            "name": "Filosofia de la poesia",
+            "rarity": "EPICO",
             "source": 52
-        }
-    },
-
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Esposas de diente de leon", 
-            "rarity": "EPICO", 
-            "source": 52
-        }
-    },
-
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Ideales de diente de leon", 
-            "rarity": "LEGENDARIO", 
-            "source": 52
-        }
-    },
-
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Mora", 
-            "rarity": "COMUN", 
-            "source": 52
-        }
-    },
-
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Enseñanzas de la libertad", 
-            "rarity": "POCO COMUN", 
-            "source": 53
-        }
-    },
-
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Guia de la libertad", 
-            "rarity": "RARO", 
-            "source": 53
-        }
-    },
-
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Filosofia de la libertad", 
-            "rarity": "EPICO", 
-            "source": 53
-        }
-    },
-
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Enseñanzas de la resistencia", 
-            "rarity": "POCO COMUN", 
-            "source": 53
-        }
-    },
-
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Guia de la resistencia", 
-            "rarity": "RARO", 
-            "source": 53
-        }
-    },
-
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Filosofia de la resistencia", 
-            "rarity": "EPICO", 
-            "source": 53
-        }
-    },
-
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Enseñanzas de la poesia", 
-            "rarity": "POCO COMUN", 
-            "source": 53
-        }
-    },
-
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Guia de la poesia", 
-            "rarity": "RARO", 
-            "source": 53
-        }
-    },
-
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Filosofia de la poesia", 
-            "rarity": "EPICO", 
-            "source": 53
-        }
-    },
-
-    {
-        "model": "farm.farmreward",
-        "fields": { 
-            "name": "Mora", 
-            "rarity": "COMUN", 
-            "source": 53
         }
     }
-
-]   
+]
