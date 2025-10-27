@@ -1,13 +1,13 @@
 [
   {
-    "model": "farm.farmgame",
+    "model": "farm.game",
     "pk": 1,
     "fields": {
       "name": "Genshin Impact"
     }
   },
   {
-    "model": "farm.farmgame",
+    "model": "farm.game",
     "pk": 2,
     "fields": {
       "name": "Wuthering Waves"
