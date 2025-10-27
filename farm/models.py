@@ -60,6 +60,9 @@ class FarmReward(models.Model):
     name = models.CharField(max_length=150)
     rarity = models.CharField(max_length=20, choices=RARITY_CHOICES)
     source = models.ForeignKey(FarmSource, on_delete=models.CASCADE, related_name='rewards')
+    
+    class Meta:
+        unique_together = ('name', 'rarity', 'source')  # 🔒 Evita duplicados por jefe
 
     def __str__(self):
         return f"{self.name} ({self.get_rarity_display()}) - {self.source.name}"
