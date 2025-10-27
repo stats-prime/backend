@@ -18,17 +18,23 @@ from .serializers import (
 class FarmSourceViewSet(viewsets.ReadOnlyModelViewSet):
     """
     Lista las fuentes (jefes, dominios, etc.) de un juego específico.
-    Permite filtrar por tipo si se desea (?type=jefe / ?type=dominio)
+    Permite filtrar por tipo si se desea (?source_type=jefe / ?source_type=dominio)
     """
     serializer_class = FarmSourceSerializer
     permission_classes = [permissions.IsAuthenticated]
 
     def get_queryset(self):
         game_id = self.kwargs.get("game_pk")
-        source_type = self.request.query_params.get("type")
+        source_type = self.request.query_params.get("source_type")
         queryset = FarmSource.objects.filter(game__id=game_id)
+
         if source_type:
-           queryset = queryset.filter(source_type__iexact=source_type)
+            # Si el tipo es "DOMINIO", incluir todo lo que empiece con "DOMINIO"
+            if source_type.upper() == "DOMINIO":
+                queryset = queryset.filter(source_type__startswith="DOMINIO")
+            else:
+                queryset = queryset.filter(source_type__iexact=source_type)
+
         return queryset
 
 # -------------------------------
