@@ -1,0 +1,16 @@
+[
+  {
+    "model": "farm.farmgame",
+    "pk": 1,
+    "fields": {
+      "name": "Genshin Impact"
+    }
+  },
+  {
+    "model": "farm.farmgame",
+    "pk": 2,
+    "fields": {
+      "name": "Wuthering Waves"
+    }
+  }
+]
